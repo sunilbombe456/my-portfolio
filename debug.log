@@ -1,0 +1,2 @@
+[0619/123200.670:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0629/163528.280:WARNING:minidump_to_upload_parameters.cc(36)] duplicate key guid, discarding value b6193c1c-518a-4a2d-9211-708bc6600f88

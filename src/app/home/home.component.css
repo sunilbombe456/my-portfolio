@@ -1,0 +1,26 @@
+a img{
+    height:15px;
+    width:auto;
+}
+
+.modal-content  {
+    padding:20px;
+    width: 25%;
+    margin-right: 4%;
+}
+
+.project-info{
+    float: left;
+}
+.col-sm-2{
+    padding:20px;
+    width: 25%;
+    margin-right: 4%;
+}
+
+body {
+    position: relative;
+}
+.web-developer{
+    background-image: url('../../assets/background/background.jpg');
+}
